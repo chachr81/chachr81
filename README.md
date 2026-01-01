@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>MSc. in Remote Sensing (Universidad Mayor, Chile)</b> · 
-  <b>Specialist in Geomatics (Universidad Central de Venezuela, Venezuela)</b>
-  <b>Geographic Proffesor (Universidad Pedagógica Experimental Libertador, Venezuela)</b>
+  <b>Specialist in Geomatics (Universidad Central de Venezuela, Venezuela)</b> ·
+  <b>Geographic Proffesor (Universidad Pedagógica Experimental Libertador, Venezuela)</b> ·
   <b>Computer Engineering student (Universidad Mayor, Chile)</b>
 </p>
 

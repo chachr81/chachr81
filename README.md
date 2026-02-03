@@ -13,11 +13,13 @@
 
 <p align="center">
   <a href="./assets/docs/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+    <img src="https://img.shields.io/badge/Download_CV-PDF-7CBD1E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
 
-### About Me
+---
+
+### 🛰️ About Me
 - **Data Engineer & Backend Developer** with **13+ years of experience** specializing in **geospatial data platforms**, designing end-to-end **ETL/ELT pipelines** using **Python and SQL**.
 - Expert in **spatial database modeling and administration** (PostgreSQL/PostGIS, SQL Server, Oracle), integrating **ESRI Enterprise** and **OGC services** to ensure data interoperability and governance.
 - Developer of scalable **Web GIS back-end architectures** and **APIs** (FastAPI), automating workflows with **Docker containers** in **Azure/AWS** and on-premise environments.
@@ -28,73 +30,33 @@
 ### Technical Stack
 
 <p align="center">
-
-  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-  <!-- Frameworks & Backend -->
+  <img src="https://img.shields.io/badge/PostGIS-008bb9?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful%20API-FF5722?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-
-  <!-- GIS Databases -->
-  <img src="https://img.shields.io/badge/PostGIS-008bb9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-  <!-- ESRI Stack -->
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArcGIS%20Server-4479A1?style=for-the-badge&logo=arcgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArcGIS%20Dashboards-CC0000?style=for-the-badge&logo=arcgis&logoColor=white"/>
-
-  <!-- Open Source GIS -->
-  <img src="https://img.shields.io/badge/GeoServer-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
-
-  <!-- Cloud & Orchestration -->
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-  <!-- Big Data & Distributed -->
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Sedona-FF6600?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-  <!-- Geoprocessing -->
-  <img src="https://img.shields.io/badge/GDAL-FF6F00?style=for-the-badge&logo=earthengine&logoColor=white"/>
-
-  <!-- Web GIS Front-end -->
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dash-1c2833?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-  <!-- Systems & Containers -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 📂 Featured Repositories
+### Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/chachr81/gee_area_explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=gee_area_explorer&theme=dark" alt="GEE Area Explorer" />
-  </a>
-  <a href="https://github.com/chachr81/gis-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=gis-engine&theme=dark" alt="GIS Engine" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=gee_area_explorer&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=gis-engine&theme=dark" />
 </p>
 <p align="center">
-  <a href="https://github.com/chachr81/spark-sedona-landscape-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=spark-sedona-landscape-analysis&theme=dark" alt="Spark Sedona Landscape Analysis" />
-  </a>
-  <a href="https://github.com/chachr81/landsat_data">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=landsat_data&theme=dark" alt="Landsat Data" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=spark-sedona-landscape-analysis&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=landsat_data&theme=dark" />
 </p>
 <p align="center">
-  <a href="https://github.com/chachr81/WebApplication_ValenciaLake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=WebApplication_ValenciaLake&theme=dark" alt="WebApplication Valencia Lake" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=WebApplication_ValenciaLake&theme=dark" />
 </p>
 
 ---
@@ -102,22 +64,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chachr81&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Christian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chachr81&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachr81&layout=compact&theme=dark&hide=jupyter%20notebook,html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachr81&layout=compact&theme=dark&hide=jupyter%20notebook,html,css" />
 </p>
-
----
-
-### Interests
-- Geographic Information Systems (GIS)
-- Geographic Data Science  
-- Remote Sensing and LiDAR  
-- GIS Backend Development  
-- Distributed geospatial computing (Spark + Sedona)  
-- Google Earth Engine workflows  
-- Open-source geospatial ecosystems  
-- Videogames, visualization & interactive maps  
 
 ---
 

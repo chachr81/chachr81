@@ -73,27 +73,27 @@
 
 ---
 
-### Featured Repositories
+### 📂 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/chachr81/gee_area_explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=gee_area_explorer&theme=radical" alt="GEE Area Explorer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=gee_area_explorer&theme=dark" alt="GEE Area Explorer" />
   </a>
   <a href="https://github.com/chachr81/gis-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=gis-engine&theme=radical" alt="GIS Engine" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=gis-engine&theme=dark" alt="GIS Engine" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/chachr81/spark-sedona-landscape-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=spark-sedona-landscape-analysis&theme=radical" alt="Spark Sedona Landscape Analysis" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=spark-sedona-landscape-analysis&theme=dark" alt="Spark Sedona Landscape Analysis" />
   </a>
   <a href="https://github.com/chachr81/landsat_data">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=landsat_data&theme=radical" alt="Landsat Data" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=landsat_data&theme=dark" alt="Landsat Data" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/chachr81/WebApplication_ValenciaLake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=WebApplication_ValenciaLake&theme=radical" alt="WebApplication Valencia Lake" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chachr81&repo=WebApplication_ValenciaLake&theme=dark" alt="WebApplication Valencia Lake" />
   </a>
 </p>
 
@@ -102,9 +102,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chachr81&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Christian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chachr81&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Christian's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachr81&layout=compact&theme=radical&hide=jupyter%20notebook,html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachr81&layout=compact&theme=dark&hide=jupyter%20notebook,html,css" alt="Top Languages" />
 </p>
 
 ---

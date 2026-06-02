@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="./github-topics.svg" alt="Topics"/>
+      <img src="./github-languages.svg" alt="Top Languages"/>
     </td>
     <td align="center" width="50%">
       <img src="./github-metrics.svg" alt="Isometric Calendar"/>

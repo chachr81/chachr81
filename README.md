@@ -19,6 +19,29 @@
 
 ---
 
+### GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=chachr81&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=chachr81&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./github-languages.svg" alt="Top Languages"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="./github-metrics.svg" alt="Activity Calendar"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### About Me
 - **Data Engineer & Backend Developer** with **13+ years of experience** specializing in **geospatial data platforms**, designing end-to-end **ETL/ELT pipelines** using **Python and SQL**.
 - Expert in **spatial database modeling and administration** (PostgreSQL/PostGIS, SQL Server, Oracle), integrating **ESRI Enterprise** and **OGC services** to ensure data interoperability and governance.
@@ -59,6 +82,24 @@
 
 ---
 
+### Leadership
+
+<p align="center">
+  <a href="https://negentropytechnologies.com/">
+    <img src="https://img.shields.io/badge/Negentropy_Technologies-General_Manager-1a1a2e?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/negentropy-technologies">
+    <img src="https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://negentropytechnologies.com/">
+    <img src="https://img.shields.io/badge/negentropytechnologies.com-2d2d2d?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### Featured Projects
 - **[GEE Area Explorer](https://github.com/chachr81/gee_area_explorer)**: A tool designed for exploring and analyzing specific areas using Google Earth Engine's vast catalog of satellite imagery.
 - **[GIS Engine](https://github.com/chachr81/gis-engine)**: Robust backend engine for spatial data processing, ETL workflows, and database management using PostGIS and FastAPI.
@@ -69,6 +110,7 @@
 ---
 
 ### Contact & Reach
+
 <p align="center">
   <a href="https://www.linkedin.com/in/christianchaconromero/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -80,10 +122,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chachr81&label=Profile%20Views&color=blue&style=flat" alt="Views"/>
-</p>
-
-<p align="center">
-  <a href="https://info.flagcounter.com/Zo7I">
-    <img src="https://s01.flagcounter.com/map/Zo7I/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0">
-  </a>
 </p>

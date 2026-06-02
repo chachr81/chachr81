@@ -24,7 +24,7 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=chachr81&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      <img src="./github-stats.svg" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com/?user=chachr81&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
@@ -32,10 +32,10 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="./github-languages.svg" alt="Top Languages"/>
+      <img src="./github-topics.svg" alt="Topics"/>
     </td>
     <td align="center" width="50%">
-      <img src="./github-metrics.svg" alt="Activity Calendar"/>
+      <img src="./github-metrics.svg" alt="Isometric Calendar"/>
     </td>
   </tr>
 </table>
